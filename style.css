@@ -1,0 +1,68 @@
+body {
+    padding: 25px;
+    background-color: oldlace;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 64px;
+    line-height: 1;
+    color: midnightblue;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-size: 24px;
+    color: darkslategray;
+    font-family: 'Lora', serif;
+}
+
+/* Remove underlines from all links */
+a {
+    text-decoration: none;
+}
+
+/* Style the navigation links */
+nav {
+    border-top: 20px solid midnightblue;
+    border-bottom: 20px solid midnightblue;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    font-size: 24px;
+    color: steelblue; /* Set the color for navigation links */
+}
+
+h2 {
+    font-size: 48px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: midnightblue;
+    font-family: 'Playfair Display', serif;
+}
+
+h3 {
+    font-style: italic;
+}
+
+footer {
+    padding: 10px 0;
+    margin-top: 50px;
+    border-top: 20px solid midnightblue;
+    border-bottom: 20px solid midnightblue;
+    text-align: center;
+}
